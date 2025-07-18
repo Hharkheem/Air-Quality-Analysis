@@ -28,7 +28,7 @@ The dataset (`AirQualityUCI.csv`) includes the following columns:
 - **T**: Temperature (°C).
 - **RH**: Relative humidity (%).
 - **AH**: Absolute humidity.
-- **Unnamed: 15, Unnamed: 16**: Empty columns (dropped during cleaning).
+
 
 The dataset contains 9471 rows, with some missing or invalid values (e.g., -200) that are handled during data cleaning.
 
@@ -41,8 +41,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/air-quality-analysis.git
-   cd air-quality-analysis
+   git clone https://github.com/Hharkheem/Air-Quality-Analysis.git
+   cd Air-Quality-Analysis
    ```
 
 2. **Obtain the Dataset**:
@@ -101,5 +101,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or contributions, please open an issue or contact the repository owner.
